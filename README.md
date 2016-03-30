@@ -4,7 +4,7 @@ Human Interactive Map Mind
 ## Specifications:
 
 1. Client or web program.
-2. Draw an svg graph from a graphdatabase.
+2. Draw a svg view for a 2-dimensionnal graph (potentially infinite) from a graphdatabase.
 3. Neo4J used for the graphdatabase.
 4. You can select nodes by left clicking.
 5. You can add new nodes and edges.
