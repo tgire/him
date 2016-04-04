@@ -1,5 +1,5 @@
 # him
-Human Interactive Map Mind
+Human Interactive Maps
 
 ## Specifications:
 
